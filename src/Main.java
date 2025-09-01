@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        squareCalculator(5);
 
     }
     public static void squareCalculator(int side){
